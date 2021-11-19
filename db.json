@@ -1,0 +1,24 @@
+{
+    "konyvek":[
+        {"id": 1,
+         "nev": "Rejtő Jenő",
+         "cim": "az elveszett cirkáló",
+         "ar": 1234,
+         "kategoria": "regény"  
+        },
+        {"id": 2,
+         "nev": "Lackfi János",
+         "cim": "Apám kakasa",
+         "ar": 3240,
+         "kategoria": "Vers"  
+
+        }
+    ],
+    "szerzo":[
+        {
+            "id":1, "nev": "Lackfi János", "Szulev": "1987"
+        }
+    ]
+
+
+}
